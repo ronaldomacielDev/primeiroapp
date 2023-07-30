@@ -1,0 +1,14 @@
+div {
+      background-color: chocolate;
+
+}
+
+ul {
+      display: flex;
+      width: 500PX;
+      justify-content: space-between;
+}
+
+li{
+      list-style: none;
+}
